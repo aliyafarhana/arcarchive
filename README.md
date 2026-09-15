@@ -4,6 +4,8 @@
 
 **Stored bunch version of Arcaea — starting from `1.0.7`**
 
+_**armeabi-v7a is 32-bit. And only can be installed in 32-bit devices (In other word, old devices)**_
+
 ![Latest](https://img.shields.io/badge/latest-7.0.256c-6E4AFF?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Android-3DDC84?style=for-the-badge)
 
