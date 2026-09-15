@@ -555,11 +555,11 @@
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| `1.0.11` | 2017-05-11 | ✅ | ❓ | ❓ | ❓ | ❌ | Crimson Solace Side Story pack (5 songs); Kou partner; Brand new world (Arcaea) |
-| `1.0.10` | 2017-04-11 | ✅ | ❓ | ❓ | ❓ | ❌ | Infinity Heaven, Anökumene (Arcaea); Note Connection feature; Pure/Far/Lost/burst effects replaced; bug fixed |
-| `1.0.9`  | 2017-03-19 | ✅ | ❓ | ❓ | ❓ | ❌ | Dement ~after legend~, Dandelion (Arcaea); Friends feature; bug fixed |
-| `1.0.8`  | 2017-03-09 | ✅ | ❓ | ❓ | ❓ | ❌ | qualia -ideaesthesia- (Arcaea); Eternal Core Main Story pack (8 songs) |
-| `1.0.5`  | 2017-03-08 | ✅ | ❓ | ❓ | ❓ | ❌ | Released to public; Arcaea free pack (10 songs); Hikari and Tairitsu partners |
+| `1.0.11` | 2017-05-11 | ✅ | ❌ | ✅ | ❌ | ❌ | Crimson Solace Side Story pack (5 songs); Kou partner; Brand new world (Arcaea) |
+| `1.0.10` | 2017-04-11 | ✅ | ❌ | ✅ | ❌ | ❌ | Infinity Heaven, Anökumene (Arcaea); Note Connection feature; Pure/Far/Lost/burst effects replaced; bug fixed |
+| `1.0.9`  | 2017-03-19 | ✅ | ❌ | ✅ | ❌ | ❌ | Dement ~after legend~, Dandelion (Arcaea); Friends feature; bug fixed |
+| `1.0.8`  | 2017-03-09 | ✅ | ❌ | ✅ | ❌ | ❌ | qualia -ideaesthesia- (Arcaea); Eternal Core Main Story pack (8 songs) |
+| `1.0.5`  | 2017-03-08 | ✅ | ❌ | ✅ | ❌ | ❌ | Released to public; Arcaea free pack (10 songs); Hikari and Tairitsu partners |
 
 ---
 
