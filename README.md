@@ -2,7 +2,7 @@
 
 # 🎵 Arc-Archive
 
-**Stored CN version of Arcaea — starting from `6.1.1c`**
+**Stored bunch version of Arcaea — starting from `1.0.7`**
 
 ![Latest](https://img.shields.io/badge/latest-7.0.256c-6E4AFF?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Android-3DDC84?style=for-the-badge)
