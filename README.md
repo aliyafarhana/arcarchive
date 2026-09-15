@@ -2,17 +2,26 @@
 
 # 🎵 Arc-Archive
 
-**Stored bunch version of Arcaea — starting from `1.0.7`** (Not all versions variant are included (`CN` & `Global`))
+**Stored build collection of Arcaea — starting from `1.0.7`**
+*(Not all version variants are included — `CN` & `Global`)*
 
-_**armeabi-v7a is 32-bit. And only can be installed in 32-bit and 64-bit devices. (In other word, old devices)**_
-> NOTE: Due to an architecture update, some devices that are 64-bit cannot install `armeabi-v7a`. Or it can be said, some devices are `64-bit` (Old 64-bit devices) and some devices are `Only 64-bit` (New 64-bit devices)
+---
+
+**`armeabi-v7a` is 32-bit.** It can only be installed on 32-bit and 64-bit devices — in other words, older devices.
+> **NOTE:** Due to an architecture update, some 64-bit devices **cannot** install `armeabi-v7a`. In other words, some devices are simply **64-bit** (older 64-bit devices), while others are **64-bit only** (newer 64-bit devices).
+
+---
 
 ### What's the difference between them?
-| 32-BIT | 64-BIT | ONLY 64-BIT |
-| - | - | - |
-| Can install 32-bit applications and 32-bit games & Cannot install 64-bit applications and 64-bit games | Can install 32-bit applications and 32-bit games | Cannot install 32-bit applications and 32-bit games |
 
-_**arm64-v8a is 64-bit. And only can be installed in 64-bit devices only.**_
+| 32-BIT | 64-BIT | 64-BIT ONLY |
+| :--- | :--- | :--- |
+| Can install 32-bit apps & games | Can install 32-bit apps & games | Cannot install 32-bit apps & games |
+| Cannot install 64-bit apps & games | Can install 64-bit apps & games | Can install 64-bit apps & games |
+
+---
+
+> **`arm64-v8a` is 64-bit.** It can only be installed on 64-bit devices.
 
 ![Latest](https://img.shields.io/badge/latest-7.0.256c-6E4AFF?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Android-3DDC84?style=for-the-badge)
