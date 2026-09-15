@@ -7,7 +7,7 @@
 _**armeabi-v7a is 32-bit. And only can be installed in 32-bit and 64-bit devices. (In other word, old devices)**_
 > NOTE: Due to an architecture update, some devices that are 64-bit cannot install `armeabi-v7a`. Or it can be said, some devices are `64-bit` (Old 64-bit devices) and some devices are `Only 64-bit` (New 64-bit devices)
 
-| What's the difference between them? |
+### What's the difference between them?
 | 32-BIT | 64-BIT | ONLY 64-BIT |
 | - | - | - |
 | Can install 32-bit applications and 32-bit games & Cannot install 64-bit applications and 64-bit games | Can install 32-bit applications and 32-bit games | Cannot install 32-bit applications and 32-bit games |
