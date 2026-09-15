@@ -17,7 +17,11 @@
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| `7.0.256c` | — | ❓ | ✅ | ❓ | ❓ | — | *Not yet documented* |
+| `7.0.256` | — | ❓ | ✅ | ❓ | ❓ | — | *Not yet documented* |
+| `7.0.255` | — | ❓ | ✅ | ❓ | ❓ | — | *Not yet documented* |
+| `7.0.2` | — | ❓ | ✅ | ❓ | ❓ | — | *Not yet documented* |
+| `7.0.1` | — | ❓ | ✅ | ❓ | ❓ | — | *Not yet documented* |
+| `7.0.0` | — | ❓ | ✅ | ❓ | ❓ | — | *Not yet documented* |
 
 ### Version 6.14.x
 
