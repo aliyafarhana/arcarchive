@@ -499,56 +499,56 @@
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| `2.1.0` | 2019-05-23 | ✅ | ❓ | ❓ | ❓ | ❌ | CHUNITHM Collaboration (3 songs); Tairitsu (Grievous Lady) & Chuni Penguin partner; 5 new limited partners; partner stats formatting; Android wider screen resolution fix |
+| `2.1.0` | 2019-05-23 | ✅ | ❌ | ✅ | ❌ | ❌ | CHUNITHM Collaboration (3 songs); Tairitsu (Grievous Lady) & Chuni Penguin partner; 5 new limited partners; partner stats formatting; Android wider screen resolution fix |
 
 ### Version 2.0.x
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| `2.0.3` | 2019-05-02 | ✅ | ❓ | ❓ | ❓ | ❌ | SUPERNOVA, VECTOЯ (Arcaea); Dot to Dot feat. shully (Memory Archive); fixed Huawei Android 9 startup; Tairitsu renamed to Tairitsu (Axium) |
-| `2.0.2` | 2019-04-01 | ✅ | ❓ | ❓ | ❓ | ✅ Red and Blue and Green / fn(ArcaeaSoundTeam) | April Fools' one-day limited Error Track |
-| `2.0.1` | 2019-03-25 | ✅ | ❓ | ❓ | ❓ | ❌ | Corrected JP/KR localization |
-| `2.0.0` | 2019-03-21 | ✅ | ❓ | ❓ | ❓ | ❌ | World Mode Chapter 4; Absolute Reason Side Story pack (5 songs); 5 new Side Story entries; Saya partner; ReviXy, Grimheart (Arcaea); Story UI revamped; KR, ZH-T, ZH-S added; Ether Drops; Awakening (Hikari, Tairitsu); Play Screen/Selection updates; iPhone X haptics |
+| `2.0.3` | 2019-05-02 | ✅ | ❌ | ✅ | ❌ | ❌ | SUPERNOVA, VECTOЯ (Arcaea); Dot to Dot feat. shully (Memory Archive); fixed Huawei Android 9 startup; Tairitsu renamed to Tairitsu (Axium) |
+| `2.0.2` | 2019-04-01 | ✅ | ❌ | ✅ | ❌ | ✅ Red and Blue and Green / fn(ArcaeaSoundTeam) | April Fools' one-day limited Error Track |
+| `2.0.1` | 2019-03-25 | ✅ | ❌ | ✅ | ❌ | ❌ | Corrected JP/KR localization |
+| `2.0.0` | 2019-03-21 | ✅ | ❌ | ✅ | ❌ | ❌ | World Mode Chapter 4; Absolute Reason Side Story pack (5 songs); 5 new Side Story entries; Saya partner; ReviXy, Grimheart (Arcaea); Story UI revamped; KR, ZH-T, ZH-S added; Ether Drops; Awakening (Hikari, Tairitsu); Play Screen/Selection updates; iPhone X haptics |
 
 ### Version 1.9.x
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| `1.9.3` | 2019-03-09 | ✅ | ❓ | ❓ | ❓ | ❌ | Solitary Dream (Eternal Core); sale |
-| `1.9.2` | 2019-02-11 | ✅ | ❓ | ❓ | ❓ | ❌ | Libertas (Memory Archive); Hikari & Seine skill description reworded |
-| `1.9.1` | 2019-01-11 | ✅ | ❓ | ❓ | ❓ | ❌ | Fixed Yume voice line crash on Android |
-| `1.9.0` | 2019-01-09 | ✅ | ❓ | ❓ | ❓ | ❌ | Groove Coaster Collaboration (5 songs); Hikari & Seine partner; Yume limited partner |
+| `1.9.3` | 2019-03-09 | ✅ | ❌ | ✅ | ❌ | ❌ | Solitary Dream (Eternal Core); sale |
+| `1.9.2` | 2019-02-11 | ✅ | ❌ | ✅ | ❌ | ❌ | Libertas (Memory Archive); Hikari & Seine skill description reworded |
+| `1.9.1` | 2019-01-11 | ✅ | ❌ | ✅ | ❌ | ❌ | Fixed Yume voice line crash on Android |
+| `1.9.0` | 2019-01-09 | ✅ | ❌ | ✅ | ❌ | ❌ | Groove Coaster Collaboration (5 songs); Hikari & Seine partner; Yume limited partner |
 
 ### Version 1.8.x
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| `1.8.3` | 2018-12-22 | ✅ | ❓ | ❓ | ❓ | ❌ | Empire of Winter (Memory Archive); Eto & Luna (Winter) limited partner |
-| `1.8.2` | 2018-11-29 | ✅ | ❓ | ❓ | ❓ | ❌ | Phantasia (Memory Archive); Ayu limited partner; updated iPad Pro support; bug fixes |
-| `1.8.1` | 2018-11-08 | ✅ | ❓ | ❓ | ❓ | ❌ | Rugie (Arcaea); Astral tale (Memory Archive); fixed Hall of Mirrors FTR; improved audio timing (192k vorbis/ogg) |
-| `1.8.0` | 2018-10-07 | ✅ | ❓ | ❓ | ❓ | ❌ | Tone Sphere Collaboration (5 songs); Tairitsu & Trin partner |
+| `1.8.3` | 2018-12-22 | ✅ | ❌ | ✅ | ❌ | ❌ | Empire of Winter (Memory Archive); Eto & Luna (Winter) limited partner |
+| `1.8.2` | 2018-11-29 | ✅ | ❌ | ✅ | ❌ | ❌ | Phantasia (Memory Archive); Ayu limited partner; updated iPad Pro support; bug fixes |
+| `1.8.1` | 2018-11-08 | ✅ | ❌ | ✅ | ❌ | ❌ | Rugie (Arcaea); Astral tale (Memory Archive); fixed Hall of Mirrors FTR; improved audio timing (192k vorbis/ogg) |
+| `1.8.0` | 2018-10-07 | ✅ | ❌ | ✅ | ❌ | ❌ | Tone Sphere Collaboration (5 songs); Tairitsu & Trin partner |
 
 ### Version 1.7.x
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| `1.7.6` | 2018-09-18 | ✅ | ❓ | ❓ | ❓ | ❌ | Alexandrite (Memory Archive) |
-| `1.7.5` | 2018-09-17 | ✅ | ❓ | ❓ | ❓ | ❌ | Purgatorium (Arcaea); partner sorting (name, level, date, FRAG, STEP) |
-| `1.7.4` | 2018-08-31 | ✅ | ❓ | ❓ | ❓ | ❌ | LunarOrbit -believe in the Espebranch road- (Arcaea); Hikari (Summer) and Tairitsu (Summer) limited partners |
-| `1.7.2` | 2018-08-13 | ✅ | ❓ | ❓ | ❓ | ❌ | Fallensquare, dropdead (Memory Archive); Nhelv (Arcaea); max Note Speed 5.5→6 |
-| `1.7.0` | 2018-07-16 | ✅ | ❓ | ❓ | ❓ | ❌ | World Mode Chapter 3; Luminous Sky Main Story pack (6 songs); Hikari (Zero) and Hikari (Fracture) partners; Bookmaker, Illegal Paradise, Suomi (Arcaea); World Mode features (Legacy, random/stamina/fixed-speed tiles) |
+| `1.7.6` | 2018-09-18 | ✅ | ❌ | ✅ | ❌ | ❌ | Alexandrite (Memory Archive) |
+| `1.7.5` | 2018-09-17 | ✅ | ❌ | ✅ | ❌ | ❌ | Purgatorium (Arcaea); partner sorting (name, level, date, FRAG, STEP) |
+| `1.7.4` | 2018-08-31 | ✅ | ❌ | ✅ | ❌ | ❌ | LunarOrbit -believe in the Espebranch road- (Arcaea); Hikari (Summer) and Tairitsu (Summer) limited partners |
+| `1.7.2` | 2018-08-13 | ✅ | ❌ | ✅ | ❌ | ❌ | Fallensquare, dropdead (Memory Archive); Nhelv (Arcaea); max Note Speed 5.5→6 |
+| `1.7.0` | 2018-07-16 | ✅ | ❌ | ✅ | ❌ | ❌ | World Mode Chapter 3; Luminous Sky Main Story pack (6 songs); Hikari (Zero) and Hikari (Fracture) partners; Bookmaker, Illegal Paradise, Suomi (Arcaea); World Mode features (Legacy, random/stamina/fixed-speed tiles) |
 
 ### Version 1.6.x
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| `1.6.6` | 2018-06-22 | ✅ | ❓ | ❓ | ❓ | ❌ | inkar-usi (Arcaea); Call My Name feat. Yukacco (Memory Archive) |
-| `1.6.5` | 2018-06-02 | ✅ | ❓ | ❓ | ❓ | ❌ | Fixed Cloud Sync freeze |
-| `1.6.4` | 2018-06-01 | ✅ | ❓ | ❓ | ❓ | ❌ | Cybernecia Catharsis (Arcaea); Be There (Memory Archive); improved temporary freezes; bug fixes |
-| `1.6.3` | 2018-05-03 | ✅ | ❓ | ❓ | ❓ | ❌ | World Mode map for γuarδina enabled |
-| `1.6.2` | 2018-04-29 | ✅ | ❓ | ❓ | ❓ | ❌ | carmine:scythe, γuarδina (Memory Archive); Shirabe limited partner; wider screen support (iPhone X, Galaxy S8, Pixel 2 XL) |
-| `1.6.1` | 2018-04-01 | ✅ | ❓ | ❓ | ❓ | ✅ Ignotus Afterburn / Arcaea Sound Team | April Fools' one-day limited Error Track; Cloud Sync; random song feature |
-| `1.6.0` | 2018-03-23 | ✅ | ❓ | ❓ | ❓ | ❌ | World Mode Chapter 2; Binary Enfold Side Story pack (5 songs); Eto and Luna partners; Profile Card feature |
+| `1.6.6` | 2018-06-22 | ✅ | ❌ | ✅ | ❌ | ❌ | inkar-usi (Arcaea); Call My Name feat. Yukacco (Memory Archive) |
+| `1.6.5` | 2018-06-02 | ✅ | ❌ | ✅ | ❌ | ❌ | Fixed Cloud Sync freeze |
+| `1.6.4` | 2018-06-01 | ✅ | ❌ | ✅ | ❌ | ❌ | Cybernecia Catharsis (Arcaea); Be There (Memory Archive); improved temporary freezes; bug fixes |
+| `1.6.3` | 2018-05-03 | ✅ | ❌ | ✅ | ❌ | ❌ | World Mode map for γuarδina enabled |
+| `1.6.2` | 2018-04-29 | ✅ | ❌ | ✅ | ❌ | ❌ | carmine:scythe, γuarδina (Memory Archive); Shirabe limited partner; wider screen support (iPhone X, Galaxy S8, Pixel 2 XL) |
+| `1.6.1` | 2018-04-01 | ✅ | ❌ | ✅ | ❌ | ✅ Ignotus Afterburn / Arcaea Sound Team | April Fools' one-day limited Error Track; Cloud Sync; random song feature |
+| `1.6.0` | 2018-03-23 | ✅ | ❌ | ✅ | ❌ | ❌ | World Mode Chapter 2; Binary Enfold Side Story pack (5 songs); Eto and Luna partners; Profile Card feature |
 
 ### Version 1.5.x
 
