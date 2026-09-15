@@ -19,9 +19,9 @@
 | Can install 32-bit apps & games | Can install 32-bit apps & games | Cannot install 32-bit apps & games |
 | Cannot install 64-bit apps & games | Can install 64-bit apps & games | Can install 64-bit apps & games |
 
----
+**`arm64-v8a` is 64-bit.** It can only be installed on 64-bit devices.
 
-> **`arm64-v8a` is 64-bit.** It can only be installed on 64-bit devices.
+---
 
 ![Latest](https://img.shields.io/badge/latest-7.0.256c-6E4AFF?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Android-3DDC84?style=for-the-badge)
