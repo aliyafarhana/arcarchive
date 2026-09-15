@@ -535,25 +535,25 @@
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| `1.5.7` | 2018-03-09 | ✅ | ❓ | ❓ | ❓ | ❌ | Blaster (Arcaea); sale |
-| `1.5.6` | 2018-02-16 | ✅ | ❓ | ❓ | ❓ | ❌ | Metallic Punisher (Memory Archive); Ilith limited partner; Android improved offset settings |
-| `1.5.5` | 2018-01-31 | ✅ | ❓ | ❓ | ❓ | ❌ | Lanota Collaboration (5 songs); Hikari & Fisica partner; bug fixes |
-| `1.5.4` | 2017-12-23 | ✅ | ❓ | ❓ | ❓ | ❌ | iOS achievement unlock bug fixed |
-| `1.5.3` | 2017-12-20 | ✅ | ❓ | ❓ | ❓ | ❌ | Reinvent, Syro (Arcaea); Achievements added; fixed BGM issues; improved Arc note visuals; iOS 11 tap input fix; iOS 120 FPS support |
-| `1.5.2` | 2017-11-24 | ✅ | ❓ | ❓ | ❓ | ❌ | Stellights Collaboration (2 songs); Stella limited partner; stamina cooldown 3→2 days; song pack selection by category; bug fixes (Axium Crisis crash) |
-| `1.5.1` | 2017-11-07 | ✅ | ❓ | ❓ | ❓ | ❌ | Fixed bugs from v1.5.0 |
-| `1.5.0` | 2017-11-03 | ✅ | ❓ | ❓ | ❓ | ❌ | World Mode feature; Vicious Labyrinth Main Story pack (6 songs); Tairitsu (Axium) and Tairitsu (Grievous Lady) partners; partner skills; One Last Drive, Dreamin' Attraction!!, Red and Blue (Arcaea); level revisions |
+| `1.5.7` | 2018-03-09 | ✅ | ❌ | ✅ | ❌ | ❌ | Blaster (Arcaea); sale |
+| `1.5.6` | 2018-02-16 | ✅ | ❌ | ✅ | ❌ | ❌ | Metallic Punisher (Memory Archive); Ilith limited partner; Android improved offset settings |
+| `1.5.5` | 2018-01-31 | ✅ | ❌ | ✅ | ❌ | ❌ | Lanota Collaboration (5 songs); Hikari & Fisica partner; bug fixes |
+| `1.5.4` | 2017-12-23 | ✅ | ❌ | ✅ | ❌ | ❌ | iOS achievement unlock bug fixed |
+| `1.5.3` | 2017-12-20 | ✅ | ❌ | ✅ | ❌ | ❌ | Reinvent, Syro (Arcaea); Achievements added; fixed BGM issues; improved Arc note visuals; iOS 11 tap input fix; iOS 120 FPS support |
+| `1.5.2` | 2017-11-24 | ✅ | ❌ | ✅ | ❌ | ❌ | Stellights Collaboration (2 songs); Stella limited partner; stamina cooldown 3→2 days; song pack selection by category; bug fixes (Axium Crisis crash) |
+| `1.5.1` | 2017-11-07 | ✅ | ❌ | ✅ | ❌ | ❌ | Fixed bugs from v1.5.0 |
+| `1.5.0` | 2017-11-03 | ✅ | ❌ | ✅ | ❌ | ❌ | World Mode feature; Vicious Labyrinth Main Story pack (6 songs); Tairitsu (Axium) and Tairitsu (Grievous Lady) partners; partner skills; One Last Drive, Dreamin' Attraction!!, Red and Blue (Arcaea); level revisions |
 
 ### Version 1.1.x
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
-| `1.1.6` | 2017-09-25 | ✅ | ❓ | ❓ | ❓ | ❌ | Rabbit In The Black Room (Arcaea); Modelista (Memory Archive); Korean language support |
-| `1.1.4` | 2017-08-10 | ✅ | ❓ | ❓ | ❓ | ❌ | Ambivalent Vision Side Story pack (5 songs); Lethe partner; Harutopia ~Utopia of Spring~ (Arcaea); Auxesia (Memory Archive) |
-| `1.1.3` | 2017-07-17 | ✅ | ❓ | ❓ | ❓ | ❌ | Ignotus (Arcaea); Impure Bird (Memory Archive); Friends limit to 10 |
-| `1.1.2` | 2017-06-23 | ✅ | ❓ | ❓ | ❓ | ❌ | Dynamix Collaboration (5 songs); Sapphire partner; Clotho and the stargazer (Arcaea); Sync function |
-| `1.1.1` | 2017-06-03 | ✅ | ❓ | ❓ | ❓ | ❌ | Critical bug fixed |
-| `1.1.0` | 2017-06-02 | ✅ | ❓ | ❓ | ❓ | ❌ | Memory Archive premium pack (3 songs); Chronostasis, Kanagawa Cyber Culvert (Arcaea); Potential feature; sorting feature; Memories in 100 increments |
+| `1.1.6` | 2017-09-25 | ✅ | ❌ | ✅ | ❌ | ❌ | Rabbit In The Black Room (Arcaea); Modelista (Memory Archive); Korean language support |
+| `1.1.4` | 2017-08-10 | ✅ | ❌ | ✅ | ❌ | ❌ | Ambivalent Vision Side Story pack (5 songs); Lethe partner; Harutopia ~Utopia of Spring~ (Arcaea); Auxesia (Memory Archive) |
+| `1.1.3` | 2017-07-17 | ✅ | ❌ | ✅ | ❌ | ❌ | Ignotus (Arcaea); Impure Bird (Memory Archive); Friends limit to 10 |
+| `1.1.2` | 2017-06-23 | ✅ | ❌ | ✅ | ❌ | ❌ | Dynamix Collaboration (5 songs); Sapphire partner; Clotho and the stargazer (Arcaea); Sync function |
+| `1.1.1` | 2017-06-03 | ✅ | ❌ | ✅ | ❌ | ❌ | Critical bug fixed |
+| `1.1.0` | 2017-06-02 | ✅ | ❌ | ✅ | ❌ | ❌ | Memory Archive premium pack (3 songs); Chronostasis, Kanagawa Cyber Culvert (Arcaea); Potential feature; sorting feature; Memories in 100 increments |
 
 ### Version 1.0.x
 
