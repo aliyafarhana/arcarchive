@@ -4,7 +4,14 @@
 
 **Stored bunch version of Arcaea — starting from `1.0.7`**
 
-_**armeabi-v7a is 32-bit. And only can be installed in 32-bit devices (In other word, old devices)**_
+_**armeabi-v7a is 32-bit. And only can be installed in 32-bit and 64-bit devices. (In other word, old devices)**_
+> NOTE: Due to an architecture update, some devices that are 64-bit cannot install `**armeabi-v7a**`. Or it can be said, some devices are `64-bit` (Old 64-bit devices) and some devices are `Only 64-bit` (New 64-bit devices)
+
+What's the difference between them?
+| 64-BIT | ONLY 64-BIT |
+| Can install 32-bit applications and 32-bit games | Cannot install 32-bit applications and 32-bit games |
+
+_**arm64-v8a is 64-bit. And only can be installed in 64-bit devices only.**_
 
 ![Latest](https://img.shields.io/badge/latest-7.0.256c-6E4AFF?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Android-3DDC84?style=for-the-badge)
