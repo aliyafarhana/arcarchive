@@ -455,133 +455,133 @@
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📱 Real Device | 💻 Emulator | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :---: | :---: | :--- |
-| `2.6.2` | 2020-05-02 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | Attempt to reject invalid connection in story; added ARG hint |
-| `2.6.1` | 2020-04-01 | ✅ | ❓ | ❓ | ❓ | ✅ Singularity VVVIP / Arcaea Sound Team against. ETIA. | ❓ | ❓ | April Fools' one-day limited Error Track |
-| `2.6.0` | 2020-03-25 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | corps-sans-organes (Ambivalent Vision); 6 new Side Story entries; Lethe Awakening; Oblivia (Arcaea); amygdata (Memory Archive); audio preset for 2 devices; Awakening bypass |
+| [`2.6.2`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.6.2) | 2020-05-02 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ (Not tested) | ❌ | Attempt to reject invalid connection in story; added ARG hint |
+| [`2.6.1`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.6.1) | 2020-04-01 | ✅ | ❓ | ❓ | ❓ | ✅ Singularity VVVIP / Arcaea Sound Team against. ETIA. | ❓ (Not tested) | ❌ | April Fools' one-day limited Error Track |
+| [`2.6.0`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.6.0) | 2020-03-25 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ (Not tested) | ❌ | corps-sans-organes (Ambivalent Vision); 6 new Side Story entries; Lethe Awakening; Oblivia (Arcaea); amygdata (Memory Archive); audio preset for 2 devices; Awakening bypass |
 
 ### Version 2.5.x
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📱 Real Device | 💻 Emulator | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :---: | :---: | :--- |
-| `2.5.3` | 2020-03-09 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | BLRINK (Adverse Prelude); sale |
-| `2.5.2` | 2020-02-21 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | world.execute(me); (Arcaea); 'World' and 'My Rank' leaderboards disabled |
-| `2.5.1` | 2020-02-04 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | Fixed payment system vulnerability |
-| `2.5.0` | 2020-01-21 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | La'qryma of the Wasteland, Einherjar Joker, IZANA, SAIKYO STRONGER (HARDCORE TANO*C); DORO*C limited partner; BATTLE NO.1 background changed; song unlock display overhauled |
+| [`2.5.3`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.5.3) | 2020-03-09 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ (Not tested) | ❌ | BLRINK (Adverse Prelude); sale |
+| [`2.5.2`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.5.2) | 2020-02-21 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ (Not tested) | ❌ | world.execute(me); (Arcaea); 'World' and 'My Rank' leaderboards disabled |
+| [`2.5.1`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.5.1) | 2020-02-04 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ (Not tested) | ❌ | Fixed payment system vulnerability |
+| [`2.5.0`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.5.0) | 2020-01-21 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ (Not tested) | ❌ | La'qryma of the Wasteland, Einherjar Joker, IZANA, SAIKYO STRONGER (HARDCORE TANO*C); DORO*C limited partner; BATTLE NO.1 background changed; song unlock display overhauled |
 
 ### Version 2.4.x
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📱 Real Device | 💻 Emulator | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :---: | :---: | :--- |
-| `2.4.9` | 2020-01-15 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | HARDCORE TANO*C Collaboration released; BATTLE NO.1 (Memory Archive) |
-| `2.4.8` | 2019-12-24 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | Artist "Lunatic Sounds" renamed to "Cosmograph" |
-| `2.4.7` | 2019-12-09 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | Avant Raze (Memory Archive); Sia limited Partner |
-| `2.4.6` | 2019-11-27 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | Fixed crash on low-spec devices |
-| `2.4.5` | 2019-11-18 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | Senkyou (Arcaea); Filament (Memory Archive) |
-| `2.4.3` | 2019-10-26 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | Monochrome Princess (Arcaea); Heavenly caress (Memory Archive); Hikari (Fantasia), Tairitsu (Sonata) album partners |
-| `2.4.2` | 2019-10-11 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | Fixed Story crash if Crimson Solace not purchased; World Mode Play+ 1.1 multiplier cost fix |
-| `2.4.0` | 2019-10-08 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | GLORY：ROAD (Crimson Solace); 8 new Side Story entries; Kou Awakening; Diode, FREEF4LL (Arcaea); Stellights songs relocated to Memory Archive; World Mode changes (max stamina 6→12, Memory Boost, Play+ applies to partner EXP, push notifications) |
+| [`2.4.9`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.4.9) | 2020-01-15 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ (Not tested) | ❌ | HARDCORE TANO*C Collaboration released; BATTLE NO.1 (Memory Archive) |
+| [`2.4.8`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.4.8) | 2019-12-24 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ (Not tested) | ❌ | Artist "Lunatic Sounds" renamed to "Cosmograph" |
+| [`2.4.7`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.4.7) | 2019-12-09 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ (Not tested) | ❌ | Avant Raze (Memory Archive); Sia limited Partner |
+| [`2.4.6`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.4.6) | 2019-11-27 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ (Not tested) | ❌ | Fixed crash on low-spec devices |
+| [`2.4.5`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.4.5) | 2019-11-18 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ (Not tested) | ❌ | Senkyou (Arcaea); Filament (Memory Archive) |
+| [`2.4.3`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.4.3) | 2019-10-26 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ (Not tested) | ❌ | Monochrome Princess (Arcaea); Heavenly caress (Memory Archive); Hikari (Fantasia), Tairitsu (Sonata) album partners |
+| [`2.4.2`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.4.2) | 2019-10-11 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ (Not tested) | ❌ | Fixed Story crash if Crimson Solace not purchased; World Mode Play+ 1.1 multiplier cost fix |
+| [`2.4.0`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.4.0) | 2019-10-08 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ (Not tested) | ❌ | GLORY：ROAD (Crimson Solace); 8 new Side Story entries; Kou Awakening; Diode, FREEF4LL (Arcaea); Stellights songs relocated to Memory Archive; World Mode changes (max stamina 6→12, Memory Boost, Play+ applies to partner EXP, push notifications) |
 
 ### Version 2.3.x
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📱 Real Device | 💻 Emulator | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :---: | :---: | :--- |
-| `2.3.2` | 2019-09-05 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | Mirzam (Memory Archive); Sunset Radiance unlock changed Clear→Play |
-| `2.3.1` | 2019-08-28 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | Fixed Huawei device startup bugs |
-| `2.3.0` | 2019-08-22 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | Sunset Radiance Side Story pack (5 songs); Kanae partner; consume multiple Ether Drops; Friends limit; increased max tap sound volume |
+| [`2.3.2`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.3.2) | 2019-09-05 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ (Not tested) | ❌ | Mirzam (Memory Archive); Sunset Radiance unlock changed Clear→Play |
+| [`2.3.1`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.3.1) | 2019-08-28 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ (Not tested) | ❌ | Fixed Huawei device startup bugs |
+| [`2.3.0`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.3.0) | 2019-08-22 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ (Not tested) | ❌ | Sunset Radiance Side Story pack (5 songs); Kanae partner; consume multiple Ether Drops; Friends limit; increased max tap sound volume |
 
 ### Version 2.2.x
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📱 Real Device | 💻 Emulator | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :---: | :---: | :--- |
-| `2.2.0` | 2019-07-18 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | Adverse Prelude Main Story pack (4 songs); 4 new Main Story entries; Dreadnought (Memory Archive); new Cry of viyella cover art; instrumental Solitary Dream title theme; icon select for Partners; revamped Settings menu; Continue button for World Mode |
+| [`2.2.0`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.2.0) | 2019-07-18 | ✅ | ❓ | ❓ | ❓ | ❌ | ❓ (Not tested) | ❌ | Adverse Prelude Main Story pack (4 songs); 4 new Main Story entries; Dreadnought (Memory Archive); new Cry of viyella cover art; instrumental Solitary Dream title theme; icon select for Partners; revamped Settings menu; Continue button for World Mode |
 
 ### Version 2.1.x
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📱 Real Device | 💻 Emulator | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :---: | :---: | :--- |
-| `2.1.0` | 2019-05-23 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | CHUNITHM Collaboration (3 songs); Tairitsu (Grievous Lady) & Chuni Penguin partner; 5 new limited partners; partner stats formatting; Android wider screen resolution fix |
+| [`2.1.0`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.1.0) | 2019-05-23 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | CHUNITHM Collaboration (3 songs); Tairitsu (Grievous Lady) & Chuni Penguin partner; 5 new limited partners; partner stats formatting; Android wider screen resolution fix |
 
 ### Version 2.0.x
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📱 Real Device | 💻 Emulator | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :---: | :---: | :--- |
-| `2.0.3` | 2019-05-02 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | SUPERNOVA, VECTOЯ (Arcaea); Dot to Dot feat. shully (Memory Archive); fixed Huawei Android 9 startup; Tairitsu renamed to Tairitsu (Axium) |
-| `2.0.2` | 2019-04-01 | ✅ | ❌ | ✅ | ❌ | ✅ Red and Blue and Green / fn(ArcaeaSoundTeam) | ❓ | ❓ | April Fools' one-day limited Error Track |
-| `2.0.1` | 2019-03-25 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Corrected JP/KR localization |
-| `2.0.0` | 2019-03-21 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | World Mode Chapter 4; Absolute Reason Side Story pack (5 songs); 5 new Side Story entries; Saya partner; ReviXy, Grimheart (Arcaea); Story UI revamped; KR, ZH-T, ZH-S added; Ether Drops; Awakening (Hikari, Tairitsu); Play Screen/Selection updates; iPhone X haptics |
+| [`2.0.3`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.0.3) | 2019-05-02 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | SUPERNOVA, VECTOЯ (Arcaea); Dot to Dot feat. shully (Memory Archive); fixed Huawei Android 9 startup; Tairitsu renamed to Tairitsu (Axium) |
+| [`2.0.2`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.0.2) | 2019-04-01 | ✅ | ❌ | ✅ | ❌ | ✅ Red and Blue and Green / fn(ArcaeaSoundTeam) | ❓ (Not tested) | ❌ | April Fools' one-day limited Error Track |
+| [`2.0.1`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.0.1) | 2019-03-25 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Corrected JP/KR localization |
+| [`2.0.0`](https://github.com/aliyafarhana/arcarchive/releases/tag/v2.0.0) | 2019-03-21 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | World Mode Chapter 4; Absolute Reason Side Story pack (5 songs); 5 new Side Story entries; Saya partner; ReviXy, Grimheart (Arcaea); Story UI revamped; KR, ZH-T, ZH-S added; Ether Drops; Awakening (Hikari, Tairitsu); Play Screen/Selection updates; iPhone X haptics |
 
 ### Version 1.9.x
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📱 Real Device | 💻 Emulator | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :---: | :---: | :--- |
-| `1.9.3` | 2019-03-09 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Solitary Dream (Eternal Core); sale |
-| `1.9.2` | 2019-02-11 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Libertas (Memory Archive); Hikari & Seine skill description reworded |
-| `1.9.1` | 2019-01-11 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Fixed Yume voice line crash on Android |
-| `1.9.0` | 2019-01-09 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Groove Coaster Collaboration (5 songs); Hikari & Seine partner; Yume limited partner |
+| [`1.9.3`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.9.3) | 2019-03-09 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Solitary Dream (Eternal Core); sale |
+| [`1.9.2`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.9.2) | 2019-02-11 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Libertas (Memory Archive); Hikari & Seine skill description reworded |
+| [`1.9.1`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.9.1) | 2019-01-11 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Fixed Yume voice line crash on Android |
+| [`1.9.0`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.9.0) | 2019-01-09 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Groove Coaster Collaboration (5 songs); Hikari & Seine partner; Yume limited partner |
 
 ### Version 1.8.x
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📱 Real Device | 💻 Emulator | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :---: | :---: | :--- |
-| [`1.8.3`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.8.3) | 2018-12-22 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Empire of Winter (Memory Archive); Eto & Luna (Winter) limited partner |
-| [`1.8.2`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.8.2) | 2018-11-29 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Phantasia (Memory Archive); Ayu limited partner; updated iPad Pro support; bug fixes |
-| [`1.8.1`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.8.1) | 2018-11-08 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Rugie (Arcaea); Astral tale (Memory Archive); fixed Hall of Mirrors FTR; improved audio timing (192k vorbis/ogg) |
-| [`1.8.0`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.8.0) | 2018-10-07 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Tone Sphere Collaboration (5 songs); Tairitsu & Trin partner |
+| [`1.8.3`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.8.3) | 2018-12-22 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Empire of Winter (Memory Archive); Eto & Luna (Winter) limited partner |
+| [`1.8.2`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.8.2) | 2018-11-29 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Phantasia (Memory Archive); Ayu limited partner; updated iPad Pro support; bug fixes |
+| [`1.8.1`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.8.1) | 2018-11-08 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Rugie (Arcaea); Astral tale (Memory Archive); fixed Hall of Mirrors FTR; improved audio timing (192k vorbis/ogg) |
+| [`1.8.0`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.8.0) | 2018-10-07 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Tone Sphere Collaboration (5 songs); Tairitsu & Trin partner |
 
 ### Version 1.7.x
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📱 Real Device | 💻 Emulator | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :---: | :---: | :--- |
-| [`1.7.6`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.7.6) | 2018-09-18 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Alexandrite (Memory Archive) |
-| [`1.7.5`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.7.5) | 2018-09-17 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Purgatorium (Arcaea); partner sorting (name, level, date, FRAG, STEP) |
-| [`1.7.4`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.7.4) | 2018-08-31 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | LunarOrbit -believe in the Espebranch road- (Arcaea); Hikari (Summer) and Tairitsu (Summer) limited partners |
-| [`1.7.2`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.7.2) | 2018-08-13 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Fallensquare, dropdead (Memory Archive); Nhelv (Arcaea); max Note Speed 5.5→6 |
-| [`1.7.0`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.7.0) | 2018-07-16 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | World Mode Chapter 3; Luminous Sky Main Story pack (6 songs); Hikari (Zero) and Hikari (Fracture) partners; Bookmaker, Illegal Paradise, Suomi (Arcaea); World Mode features (Legacy, random/stamina/fixed-speed tiles) |
+| [`1.7.6`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.7.6) | 2018-09-18 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Alexandrite (Memory Archive) |
+| [`1.7.5`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.7.5) | 2018-09-17 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Purgatorium (Arcaea); partner sorting (name, level, date, FRAG, STEP) |
+| [`1.7.4`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.7.4) | 2018-08-31 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | LunarOrbit -believe in the Espebranch road- (Arcaea); Hikari (Summer) and Tairitsu (Summer) limited partners |
+| [`1.7.2`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.7.2) | 2018-08-13 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Fallensquare, dropdead (Memory Archive); Nhelv (Arcaea); max Note Speed 5.5→6 |
+| [`1.7.0`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.7.0) | 2018-07-16 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | World Mode Chapter 3; Luminous Sky Main Story pack (6 songs); Hikari (Zero) and Hikari (Fracture) partners; Bookmaker, Illegal Paradise, Suomi (Arcaea); World Mode features (Legacy, random/stamina/fixed-speed tiles) |
 
 ### Version 1.6.x
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📱 Real Device | 💻 Emulator | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :---: | :---: | :--- |
-| [`1.6.6`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.6.6) | 2018-06-22 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | inkar-usi (Arcaea); Call My Name feat. Yukacco (Memory Archive) |
-| [`1.6.5`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.6.5) | 2018-06-02 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Fixed Cloud Sync freeze |
-| [`1.6.4`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.6.4) | 2018-06-01 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Cybernecia Catharsis (Arcaea); Be There (Memory Archive); improved temporary freezes; bug fixes |
-| [`1.6.3`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.6.3) | 2018-05-03 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | World Mode map for γuarδina enabled |
-| [`1.6.2`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.6.2) | 2018-04-29 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | carmine:scythe, γuarδina (Memory Archive); Shirabe limited partner; wider screen support (iPhone X, Galaxy S8, Pixel 2 XL) |
-| [`1.6.1`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.6.1) | 2018-04-01 | ✅ | ❌ | ✅ | ❌ | ✅ Ignotus Afterburn / Arcaea Sound Team | ❓ | ❓ | April Fools' one-day limited Error Track; Cloud Sync; random song feature |
-| [`1.6.0`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.6.0) | 2018-03-23 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | World Mode Chapter 2; Binary Enfold Side Story pack (5 songs); Eto and Luna partners; Profile Card feature |
+| [`1.6.6`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.6.6) | 2018-06-22 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | inkar-usi (Arcaea); Call My Name feat. Yukacco (Memory Archive) |
+| [`1.6.5`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.6.5) | 2018-06-02 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Fixed Cloud Sync freeze |
+| [`1.6.4`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.6.4) | 2018-06-01 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Cybernecia Catharsis (Arcaea); Be There (Memory Archive); improved temporary freezes; bug fixes |
+| [`1.6.3`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.6.3) | 2018-05-03 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | World Mode map for γuarδina enabled |
+| [`1.6.2`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.6.2) | 2018-04-29 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | carmine:scythe, γuarδina (Memory Archive); Shirabe limited partner; wider screen support (iPhone X, Galaxy S8, Pixel 2 XL) |
+| [`1.6.1`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.6.1) | 2018-04-01 | ✅ | ❌ | ✅ | ❌ | ✅ Ignotus Afterburn / Arcaea Sound Team | ❓ (Not tested) | ❌ | April Fools' one-day limited Error Track; Cloud Sync; random song feature |
+| [`1.6.0`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.6.0) | 2018-03-23 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | World Mode Chapter 2; Binary Enfold Side Story pack (5 songs); Eto and Luna partners; Profile Card feature |
 
 ### Version 1.5.x
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📱 Real Device | 💻 Emulator | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :---: | :---: | :--- |
-| [`1.5.7`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.5.7) | 2018-03-09 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Blaster (Arcaea); sale |
-| [`1.5.6`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.5.6) | 2018-02-16 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Metallic Punisher (Memory Archive); Ilith limited partner; Android improved offset settings |
-| [`1.5.5`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.5.5) | 2018-01-31 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Lanota Collaboration (5 songs); Hikari & Fisica partner; bug fixes |
-| [`1.5.4`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.5.4) | 2017-12-23 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | iOS achievement unlock bug fixed |
-| [`1.5.3`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.5.3) | 2017-12-20 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Reinvent, Syro (Arcaea); Achievements added; fixed BGM issues; improved Arc note visuals; iOS 11 tap input fix; iOS 120 FPS support |
-| [`1.5.2`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.5.2) | 2017-11-24 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Stellights Collaboration (2 songs); Stella limited partner; stamina cooldown 3→2 days; song pack selection by category; bug fixes (Axium Crisis crash) |
-| [`1.5.1`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.5.1) | 2017-11-07 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Fixed bugs from v1.5.0 |
-| [`1.5.0`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.5.0) | 2017-11-03 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | World Mode feature; Vicious Labyrinth Main Story pack (6 songs); Tairitsu (Axium) and Tairitsu (Grievous Lady) partners; partner skills; One Last Drive, Dreamin' Attraction!!, Red and Blue (Arcaea); level revisions |
+| [`1.5.7`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.5.7) | 2018-03-09 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Blaster (Arcaea); sale |
+| [`1.5.6`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.5.6) | 2018-02-16 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Metallic Punisher (Memory Archive); Ilith limited partner; Android improved offset settings |
+| [`1.5.5`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.5.5) | 2018-01-31 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Lanota Collaboration (5 songs); Hikari & Fisica partner; bug fixes |
+| [`1.5.4`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.5.4) | 2017-12-23 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | iOS achievement unlock bug fixed |
+| [`1.5.3`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.5.3) | 2017-12-20 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Reinvent, Syro (Arcaea); Achievements added; fixed BGM issues; improved Arc note visuals; iOS 11 tap input fix; iOS 120 FPS support |
+| [`1.5.2`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.5.2) | 2017-11-24 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Stellights Collaboration (2 songs); Stella limited partner; stamina cooldown 3→2 days; song pack selection by category; bug fixes (Axium Crisis crash) |
+| [`1.5.1`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.5.1) | 2017-11-07 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Fixed bugs from v1.5.0 |
+| [`1.5.0`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.5.0) | 2017-11-03 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | World Mode feature; Vicious Labyrinth Main Story pack (6 songs); Tairitsu (Axium) and Tairitsu (Grievous Lady) partners; partner skills; One Last Drive, Dreamin' Attraction!!, Red and Blue (Arcaea); level revisions |
 
 ### Version 1.1.x
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📱 Real Device | 💻 Emulator | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :---: | :---: | :--- |
-| [`1.1.6`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.6) | 2017-09-25 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Rabbit In The Black Room (Arcaea); Modelista (Memory Archive); Korean language support |
-| [`1.1.4`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.4) | 2017-08-10 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Ambivalent Vision Side Story pack (5 songs); Lethe partner; Harutopia ~Utopia of Spring~ (Arcaea); Auxesia (Memory Archive) |
-| [`1.1.3`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.3) | 2017-07-17 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Ignotus (Arcaea); Impure Bird (Memory Archive); Friends limit to 10 |
-| [`1.1.2`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.2) | 2017-06-23 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Dynamix Collaboration (5 songs); Sapphire partner; Clotho and the stargazer (Arcaea); Sync function |
-| [`1.1.1`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.1) | 2017-06-03 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Critical bug fixed |
-| [`1.1.0`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.0) | 2017-06-02 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Memory Archive premium pack (3 songs); Chronostasis, Kanagawa Cyber Culvert (Arcaea); Potential feature; sorting feature; Memories in 100 increments |
+| [`1.1.6`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.6) | 2017-09-25 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Rabbit In The Black Room (Arcaea); Modelista (Memory Archive); Korean language support |
+| [`1.1.4`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.4) | 2017-08-10 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Ambivalent Vision Side Story pack (5 songs); Lethe partner; Harutopia ~Utopia of Spring~ (Arcaea); Auxesia (Memory Archive) |
+| [`1.1.3`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.3) | 2017-07-17 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Ignotus (Arcaea); Impure Bird (Memory Archive); Friends limit to 10 |
+| [`1.1.2`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.2) | 2017-06-23 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Dynamix Collaboration (5 songs); Sapphire partner; Clotho and the stargazer (Arcaea); Sync function |
+| [`1.1.1`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.1) | 2017-06-03 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Critical bug fixed |
+| [`1.1.0`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.0) | 2017-06-02 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Memory Archive premium pack (3 songs); Chronostasis, Kanagawa Cyber Culvert (Arcaea); Potential feature; sorting feature; Memories in 100 increments |
 
 ### Version 1.0.x
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📱 Real Device | 💻 Emulator | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :---: | :---: | :--- |
-| [`1.0.11`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.0.11) | 2017-05-11 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Crimson Solace Side Story pack (5 songs); Kou partner; Brand new world (Arcaea) |
-| [`1.0.10`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.0.10) | 2017-04-11 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Infinity Heaven, Anökumene (Arcaea); Note Connection feature; Pure/Far/Lost/burst effects replaced; bug fixed |
-| [`1.0.9`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.0.9) | 2017-03-19 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Dement ~after legend~, Dandelion (Arcaea); Friends feature; bug fixed |
-| [`1.0.8`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.0.8) | 2017-03-09 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | qualia -ideaesthesia- (Arcaea); Eternal Core Main Story pack (8 songs) |
+| [`1.0.11`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.0.11) | 2017-05-11 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Crimson Solace Side Story pack (5 songs); Kou partner; Brand new world (Arcaea) |
+| [`1.0.10`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.0.10) | 2017-04-11 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Infinity Heaven, Anökumene (Arcaea); Note Connection feature; Pure/Far/Lost/burst effects replaced; bug fixed |
+| [`1.0.9`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.0.9) | 2017-03-19 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | Dement ~after legend~, Dandelion (Arcaea); Friends feature; bug fixed |
+| [`1.0.8`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.0.8) | 2017-03-09 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ | qualia -ideaesthesia- (Arcaea); Eternal Core Main Story pack (8 songs) |
 | [`1.0.7`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.0.7) | 2017-03-08 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ (Not tested) | ❌ (Stuck at Startup Screen) | Released to public; Arcaea free pack (10 songs); Hikari and Tairitsu partners |
 
 ---
