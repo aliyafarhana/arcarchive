@@ -567,22 +567,22 @@
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📱 Real Device | 💻 Emulator | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :---: | :---: | :--- |
-| [`1.1.6`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.6) | 2017-09-25 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Rabbit In The Black Room (Arcaea); Modelista (Memory Archive); Korean language support |
-| [`1.1.4`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.4) | 2017-08-10 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Ambivalent Vision Side Story pack (5 songs); Lethe partner; Harutopia ~Utopia of Spring~ (Arcaea); Auxesia (Memory Archive) |
-| [`1.1.3`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.3) | 2017-07-17 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Ignotus (Arcaea); Impure Bird (Memory Archive); Friends limit to 10 |
-| [`1.1.2`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.2) | 2017-06-23 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Dynamix Collaboration (5 songs); Sapphire partner; Clotho and the stargazer (Arcaea); Sync function |
-| [`1.1.1`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.1) | 2017-06-03 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Critical bug fixed |
-| [`1.1.0`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.0) | 2017-06-02 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Memory Archive premium pack (3 songs); Chronostasis, Kanagawa Cyber Culvert (Arcaea); Potential feature; sorting feature; Memories in 100 increments |
+| [`1.1.6`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.6) | 2017-09-25 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ✅ | Rabbit In The Black Room (Arcaea); Modelista (Memory Archive); Korean language support |
+| [`1.1.4`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.4) | 2017-08-10 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❌ | Ambivalent Vision Side Story pack (5 songs); Lethe partner; Harutopia ~Utopia of Spring~ (Arcaea); Auxesia (Memory Archive) |
+| [`1.1.3`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.3) | 2017-07-17 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ✅ | Ignotus (Arcaea); Impure Bird (Memory Archive); Friends limit to 10 |
+| [`1.1.2`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.2) | 2017-06-23 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❌ | Dynamix Collaboration (5 songs); Sapphire partner; Clotho and the stargazer (Arcaea); Sync function |
+| [`1.1.1`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.1) | 2017-06-03 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❌ | Critical bug fixed |
+| [`1.1.0`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.1.0) | 2017-06-02 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❌ | Memory Archive premium pack (3 songs); Chronostasis, Kanagawa Cyber Culvert (Arcaea); Potential feature; sorting feature; Memories in 100 increments |
 
 ### Version 1.0.x
 
 | 🔖 Version | 📅 Released | 🌏 Global | 🇨🇳 CN | 🅰️ armeabi-v7a | 🅱️ arm64-v8a | 🎉 AF | 📱 Real Device | 💻 Emulator | 📝 Update Description |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- | :---: | :---: | :--- |
-| [`1.0.11`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.0.11) | 2017-05-11 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Crimson Solace Side Story pack (5 songs); Kou partner; Brand new world (Arcaea) |
-| [`1.0.10`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.0.10) | 2017-04-11 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Infinity Heaven, Anökumene (Arcaea); Note Connection feature; Pure/Far/Lost/burst effects replaced; bug fixed |
-| [`1.0.9`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.0.9) | 2017-03-19 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Dement ~after legend~, Dandelion (Arcaea); Friends feature; bug fixed |
-| [`1.0.8`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.0.8) | 2017-03-09 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | qualia -ideaesthesia- (Arcaea); Eternal Core Main Story pack (8 songs) |
-| [`1.0.7`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.0.7) | 2017-03-08 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | Released to public; Arcaea free pack (10 songs); Hikari and Tairitsu partners |
+| [`1.0.11`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.0.11) | 2017-05-11 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ✅ | Crimson Solace Side Story pack (5 songs); Kou partner; Brand new world (Arcaea) |
+| [`1.0.10`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.0.10) | 2017-04-11 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ✅ | Infinity Heaven, Anökumene (Arcaea); Note Connection feature; Pure/Far/Lost/burst effects replaced; bug fixed |
+| [`1.0.9`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.0.9) | 2017-03-19 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ✅ | Dement ~after legend~, Dandelion (Arcaea); Friends feature; bug fixed |
+| [`1.0.8`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.0.8) | 2017-03-09 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ✅ | qualia -ideaesthesia- (Arcaea); Eternal Core Main Story pack (8 songs) |
+| [`1.0.7`](https://github.com/aliyafarhana/arcarchive/releases/tag/v1.0.7) | 2017-03-08 | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ✅ | Released to public; Arcaea free pack (10 songs); Hikari and Tairitsu partners |
 
 ---
 
